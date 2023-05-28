@@ -11,7 +11,7 @@ let xdirection = 1; // Left or Right
 let ydirection = 1; // Top to Bottom
 
 function setup() {
-  createCanvas(window.innerWidth, window.innerHeight);
+  createCanvas(window.innerWidth-10, window.innerHeight-10);
   noStroke();
   frameRate(60);
 

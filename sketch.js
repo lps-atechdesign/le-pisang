@@ -27,7 +27,8 @@ function draw() {
   //background(0);
   textAlign(CENTER)
   textSize(100)
-  text ("Coming soon...", width/2, height/2)
+  text ("T-Man", width/2, height/2)
+  text ("Chit Chat 247", width/2, height/2+150)
   r=random (255)
   g=random (255)
   b=random (255)
